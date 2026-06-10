@@ -82,28 +82,28 @@ Database
 
 ### Home Page
 
-![Home Page](<img width="1913" height="867" alt="Screenshot 2026-06-10 163635" src="https://github.com/user-attachments/assets/a2bc6c6b-9198-432d-808d-20c1c23c2f1b" />
+(<img width="1913" height="867" alt="Screenshot 2026-06-10 163635" src="https://github.com/user-attachments/assets/a2bc6c6b-9198-432d-808d-20c1c23c2f1b" />
 )
 
 ### Product Listing
 
-![Products](<img width="1897" height="881" alt="Screenshot 2026-06-10 163652" src="https://github.com/user-attachments/assets/54df6374-3ace-4b50-a504-7cec655c3ff3" />
+(<img width="1897" height="881" alt="Screenshot 2026-06-10 163652" src="https://github.com/user-attachments/assets/54df6374-3ace-4b50-a504-7cec655c3ff3" />
 )
 
 ### Product Details
 
-![Product Details](screenshots/product_details.png)
+(screenshots/product_details.png)
 
 ### Shopping Cart
 
-![Cart](<img width="1913" height="883" alt="Screenshot 2026-06-10 163707" src="https://github.com/user-attachments/assets/d750b51e-4ce2-4777-b703-0beffc137135" />)
+(<img width="1913" height="883" alt="Screenshot 2026-06-10 163707" src="https://github.com/user-attachments/assets/d750b51e-4ce2-4777-b703-0beffc137135" />)
 
 
 ### order
 
-![order Dashboard](<img width="1900" height="880" alt="Screenshot 2026-06-10 163721" src="https://github.com/user-attachments/assets/2c9c91cb-fcc1-4790-bf99-2666fbd472a1" />)
+(<img width="1900" height="880" alt="Screenshot 2026-06-10 163721" src="https://github.com/user-attachments/assets/2c9c91cb-fcc1-4790-bf99-2666fbd472a1" />)
 )
 
 ### completion of order
 
-![successful](<img width="1861" height="900" alt="Screenshot 2026-06-10 163758" src="https://github.com/user-attachments/assets/6e325fc4-0826-41a2-b9b9-1e88259a821b" />)
+(<img width="1861" height="900" alt="Screenshot 2026-06-10 163758" src="https://github.com/user-attachments/assets/6e325fc4-0826-41a2-b9b9-1e88259a821b" />)
