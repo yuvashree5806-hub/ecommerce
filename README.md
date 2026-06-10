@@ -90,10 +90,6 @@ Database
 <img width="1897" height="881" alt="Screenshot 2026-06-10 163652" src="https://github.com/user-attachments/assets/54df6374-3ace-4b50-a504-7cec655c3ff3" />
 
 
-### Product Details
-
-(screenshots/product_details.png)
-
 ### Shopping Cart
 
 <img width="1913" height="883" alt="Screenshot 2026-06-10 163707" src="https://github.com/user-attachments/assets/d750b51e-4ce2-4777-b703-0beffc137135" />
@@ -101,7 +97,7 @@ Database
 
 ### order
 
-<img width="1900" height="880" alt="Screenshot 2026-06-10 163721" src="https://github.com/user-attachments/assets/2c9c91cb-fcc1-4790-bf99-2666fbd472a1" />)
+<img width="1900" height="880" alt="Screenshot 2026-06-10 163721" src="https://github.com/user-attachments/assets/2c9c91cb-fcc1-4790-bf99-2666fbd472a1" />
 
 
 ### completion of order
